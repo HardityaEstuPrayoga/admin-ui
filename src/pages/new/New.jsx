@@ -16,7 +16,7 @@ const New = () => {
             <div className="left">
                 <div className="item">
                 <img
-                    src="https://i.pinimg.com/564x/59/27/3f/59273fd2918b801b34d69fd03d42a03f.jpg"
+                    src="https://i.ibb.co/prQwM6y/a1.png"
                     alt=""
                     className="itemImg"/>
                 </div>
