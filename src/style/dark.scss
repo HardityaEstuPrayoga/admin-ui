@@ -45,13 +45,10 @@
       .datagrid {
         color: gray;
         border: none;
-        
-        div{
-          color: gray;
-          background-color: transparent;
-        }
   
-        .viewButton {
+        .viewButton,
+        .deleteButton,
+        .cellWithStatus {
           color: gray;
           border: none;
         }
